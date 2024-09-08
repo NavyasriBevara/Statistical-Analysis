@@ -48,6 +48,11 @@ By following the steps in the document, users can apply similar methods to their
 In essence, the document serves as a practical guide for anyone interested in performing statistical analysis using Python, covering both basic and advanced topics.
 
 
+### Name:  Bevara Navyasri
+### Email: bevaranavyasri2005@gmail.com
+### linkedin:  linkedin.com/in/navyasri-bevara-5a4414308/
+
+
 
 
 
